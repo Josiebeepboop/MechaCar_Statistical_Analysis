@@ -28,4 +28,14 @@ Briefly summarizing the descriptive stats for PSI, we find that the mean varianc
 
 ## T-Tests on Suspension Coils
 
+![T-Test for all lots](Analysis/ttest-totalpsi.png)
+
+![T-Test for lot 1](Analysis/ttest-lot1.png)
+
+![T-Test for lot 2](Analysis/ttest-lot2.png)
+
+![T-Test for lot 3](Analysis/ttest-lot3.png)
+
+
+
 ## Study Design: MechaCar vs Competition
