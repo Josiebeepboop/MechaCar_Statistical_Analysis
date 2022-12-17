@@ -36,6 +36,8 @@ Briefly summarizing the descriptive stats for PSI, we find that the mean varianc
 
 ![T-Test for lot 3](Analysis/ttest-lot3.png)
 
-
+We ran t-tests to compare the PSI for all lots and for each lots individually against the mean PSI of the population (1500) to determine if any of these would be statistically different. There is no evidence to support that All p-values were within
 
 ## Study Design: MechaCar vs Competition
+
+
