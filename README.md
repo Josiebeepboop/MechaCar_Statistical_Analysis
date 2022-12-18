@@ -30,6 +30,8 @@ Briefly summarizing the descriptive stats for PSI, we find that the mean varianc
 
 ## T-Tests on Suspension Coils
 
+We ran multiple t-tests to compare the PSI for all lots and for each individual lot against the mean PSI of the population (1500) to determine if any of these would be statistically different. As can be seen below, no statistical significance was detected as all p-values were below the 0.05% significance level. 
+
 ![T-Test for all lots](Analysis/ttest-totalpsi.png)
 
 ![T-Test for lot 1](Analysis/ttest-lot1.png)
@@ -38,7 +40,6 @@ Briefly summarizing the descriptive stats for PSI, we find that the mean varianc
 
 ![T-Test for lot 3](Analysis/ttest-lot3.png)
 
-We ran multiple t-tests to compare the PSI for all lots and for each individual lot against the mean PSI of the population (1500) to determine if any of these would be statistically different. No statistical significance was detected as all p-values were below the 0.05% significance level. 
 
 ## Study Design: MechaCar vs Competition
 
